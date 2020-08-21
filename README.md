@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Aanisha👋
 
+##### I'm a computer science and engineering student, with specific interest in Computer Vision and Deep Learning. I also have experience with web development.I'm want to explore more deep into Deep Learning 
+
+##### Here are my other social profiles:
+
+<a href="https://aanishabhattacharyya.netlify.app">Website</a>
 <!--
 **Aanisha/Aanisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
