@@ -1,6 +1,12 @@
 ### Hi there, I'm Aanisha👋
 
-##### I'm a computer science and engineering student, with specific interest in Computer Vision and Deep Learning. I also have experience with web development.I'm want to explore more deep into Deep Learning 
+##### I'm a computer science and engineering student, with specific interest in Deep Learning.Exploring Graph ML,multimodal learning and Recommendation engines! I also have experience with web development.
+
+#### Work Experience
+
+##### ML Intern - Julia Computing, Former Research Intern - Adobe Research India
+
+👯 I’m looking to collaborate on ML/NLP based projects 
 
 ##### Here are my other social profiles:
 
